@@ -1,0 +1,9 @@
+git.txt
+style.css
+contact.html
+
+*.txt
+
+projects/
+
+!log.txt
